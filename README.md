@@ -2,7 +2,7 @@
 A Node REST webservice to expose data from the Computronix CXPROD system to small utilities like [Alfred](https://alfredapp.com).
 
 ## Installation Steps
-This webservice requires Node 9 and an Oracle Instant Client. To install, use NVM to setup Node v9.x and also download the Oracle Instant client for Mac. 
+This webservice requires Node 9 and an Oracle Instant Client. To install, use NVM to setup Node v9.x and also download the [Oracle Instant client for Mac](http://www.oracle.com/technetwork/topics/intel-macsoft-096467.html). 
 
 To set up [nvm](https://github.com/creationix/nvm) on the Mac, use Homebrew like so: `brew install nvm`.
 
